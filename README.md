@@ -2,7 +2,7 @@
 pbGraphs is a graph library for Java.
 
 ## Requirements
-Java 1.5. By changing the use static imports to ordinary imports, it will work with Java 1.3+.
+Java 1.5+. By changing the use static imports to ordinary imports, it will work with Java 1.3+.
 
 ## Dependencies
 There are no dependencies.
@@ -14,7 +14,7 @@ It is easy to get started. Here are two alternatives:
  - Create a jar file and use it in your project.
 
 ## Avaialble in 12 different programming languages
-pbGraphs-java has been implemented with [progsbase](https://repo.progsbase.com/repoviewer/no.inductive.libraries/DirectedGraphs/0.1.14/), so the library is available for 12 different programming languages.
+pbGraphs-java has been implemented with [progsbase](https://www.progsbase.com), so the library is available for 12 different programming languages.
 
 Try [all functions online](https://repo.progsbase.com/repoviewer/no.inductive.libraries/DirectedGraphs/0.1.14/) and see the implementations in different languages.
 

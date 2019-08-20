@@ -1,9 +1,8 @@
 package arrays.arrays;
 
-import static java.lang.Math.*;
-
-import references.references.*;
-import static references.references.references.*;
+import references.references.BooleanArrayReference;
+import references.references.NumberArrayReference;
+import references.references.StringReference;
 
 
 public class arrays{

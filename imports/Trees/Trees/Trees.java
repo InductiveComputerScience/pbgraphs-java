@@ -1,8 +1,5 @@
 package Trees.Trees;
 
-import static java.lang.Math.*;
-
-
 public class Trees{
 	public static double TreeHeight(Tree tree){
 		double height, i, branchHeight;

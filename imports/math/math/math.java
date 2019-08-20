@@ -1,9 +1,8 @@
 package math.math;
 
-import static java.lang.Math.*;
+import references.references.NumberReference;
 
-import references.references.*;
-import static references.references.references.*;
+import static java.lang.Math.*;
 
 
 public class math{

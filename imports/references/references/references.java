@@ -1,8 +1,5 @@
 package references.references;
 
-import static java.lang.Math.*;
-
-
 public class references{
 	public static BooleanReference CreateBooleanReference(boolean value){
 		BooleanReference ref;

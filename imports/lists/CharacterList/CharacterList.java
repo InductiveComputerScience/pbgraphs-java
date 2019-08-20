@@ -1,26 +1,6 @@
 package lists.CharacterList;
 
-import static java.lang.Math.*;
-
-import references.references.*;
-import static references.references.references.*;
-
-import static arrays.arrays.arrays.*;
-
-
-import static lists.LinkedListNumbersComputations.LinkedListNumbersComputations.*;
-
-import static lists.DynamicArrayNumbersComputations.DynamicArrayNumbersComputations.*;
-
-import static lists.NumberList.NumberList.*;
-
-import static lists.StringList.StringList.*;
-
-import static lists.BooleanList.BooleanList.*;
-
-import lists.LinkedListNumbers.*;
-
-import lists.DynamicArrayNumbers.*;
+import references.references.StringReference;
 
 public class CharacterList{
 	public static char [] AddCharacter(char [] list, char a){

@@ -1,26 +1,6 @@
 package lists.BooleanList;
 
-import static java.lang.Math.*;
-
-import references.references.*;
-import static references.references.references.*;
-
-import static arrays.arrays.arrays.*;
-
-
-import static lists.LinkedListNumbersComputations.LinkedListNumbersComputations.*;
-
-import static lists.DynamicArrayNumbersComputations.DynamicArrayNumbersComputations.*;
-
-import static lists.NumberList.NumberList.*;
-
-import static lists.StringList.StringList.*;
-
-import lists.LinkedListNumbers.*;
-
-import lists.DynamicArrayNumbers.*;
-
-import static lists.CharacterList.CharacterList.*;
+import references.references.BooleanArrayReference;
 
 public class BooleanList{
 	public static boolean [] AddBoolean(boolean [] list, boolean a){

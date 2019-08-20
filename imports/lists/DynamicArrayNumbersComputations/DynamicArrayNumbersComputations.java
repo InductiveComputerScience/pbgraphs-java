@@ -1,26 +1,12 @@
 package lists.DynamicArrayNumbersComputations;
 
+import lists.DynamicArrayNumbers.DynamicArrayNumbers;
+import lists.LinkedListNumbers.LinkedListNodeNumbers;
+import lists.LinkedListNumbers.LinkedListNumbers;
+
+import static arrays.arrays.arrays.CopyNumberArray;
 import static java.lang.Math.*;
-
-import references.references.*;
-import static references.references.references.*;
-
-import static arrays.arrays.arrays.*;
-
-
 import static lists.LinkedListNumbersComputations.LinkedListNumbersComputations.*;
-
-import static lists.NumberList.NumberList.*;
-
-import static lists.StringList.StringList.*;
-
-import static lists.BooleanList.BooleanList.*;
-
-import lists.LinkedListNumbers.*;
-
-import lists.DynamicArrayNumbers.*;
-
-import static lists.CharacterList.CharacterList.*;
 
 public class DynamicArrayNumbersComputations{
 	public static DynamicArrayNumbers CreateDynamicArrayNumbers(){

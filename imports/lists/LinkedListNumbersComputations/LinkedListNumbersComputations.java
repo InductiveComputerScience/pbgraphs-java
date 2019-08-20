@@ -1,26 +1,7 @@
 package lists.LinkedListNumbersComputations;
 
-import static java.lang.Math.*;
-
-import references.references.*;
-import static references.references.references.*;
-
-import static arrays.arrays.arrays.*;
-
-
-import static lists.DynamicArrayNumbersComputations.DynamicArrayNumbersComputations.*;
-
-import static lists.NumberList.NumberList.*;
-
-import static lists.StringList.StringList.*;
-
-import static lists.BooleanList.BooleanList.*;
-
-import lists.LinkedListNumbers.*;
-
-import lists.DynamicArrayNumbers.*;
-
-import static lists.CharacterList.CharacterList.*;
+import lists.LinkedListNumbers.LinkedListNodeNumbers;
+import lists.LinkedListNumbers.LinkedListNumbers;
 
 public class LinkedListNumbersComputations{
 	public static LinkedListNumbers CreateLinkedListNumbers(){
