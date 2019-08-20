@@ -1,0 +1,15 @@
+{
+  "name": "PriorityQueue",
+  "version": "0.1.3",
+  "organization namespace": "no.inductive.libraries",
+  "scientific namespace": "computerscience.datastructures.basic",
+  "imports": [
+    ["", "no.inductive.idea10.programs", "lists", "0.1.7"],
+    ["", "no.inductive.idea10.programs", "references", "0.1.4"],
+    ["", "no.inductive.idea10.programs", "arrays", "0.9.5"]
+  ],
+  "development imports": [
+    ["", "no.inductive.idea10.programs", "testing", "0.1.7"]
+  ],
+  "ownerCustomerId": "Inductive AS"
+}
